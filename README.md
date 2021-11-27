@@ -29,6 +29,6 @@ Clone repo to your computer, run an npm install, run npm run seed, run npm start
     For example, Get all products: “localhost:3001/api/products”.
 
 ## Usage
-Video Walkthrough: 
+Video Walkthrough: https://watch.screencastify.com/v/iZ9eTUxPHSlYI5mlRNnl 
 
 
